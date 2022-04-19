@@ -1,0 +1,6 @@
+{
+  "baseUrl": "https://barrigareact.wcaquino.me/",
+  "watchForFileChanges": false,
+  "video": false,
+  "experimentalSessionSupport": true
+}
